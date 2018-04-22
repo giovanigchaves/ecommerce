@@ -4,6 +4,7 @@
 
     use \Slim\Slim;
     use \Hcode\Page;
+    use \Hcode\PageAdmin;
 
     $app = new Slim();
 
@@ -18,6 +19,17 @@
         $page->setTpl("index");
 
     });
+
+    //rota
+    $app->get('/admin', function()
+    {
+
+        $page = new PageAdmin();
+
+        $page->setTpl("index");
+
+    });
+
 
     $app->run();
 
