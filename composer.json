@@ -1,9 +1,9 @@
 {
-    "name": "giovanigchaves/ecommerce",
+    "name": "hcodebr/ecommerce",
     "authors": [
         {
-            "name": "Giovani G Chaves",
-            "email": "suporte.loopinfinit@gmail.com"
+            "name": "Hcode Treinamentos",
+            "email": "suporte@hcode.com.br"
         }
     ],
     "require": {
