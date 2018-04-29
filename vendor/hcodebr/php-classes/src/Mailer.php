@@ -5,10 +5,10 @@ namespace Hcode;
 use Rain\Tpl;
 
 class Mailer {
-
-    const USERNAME = "suporte.loopinfinit@gmail.com";
-    const PASSWORD = "981623077.";
-    const NAME_FROM = "Hcode Store";
+	
+	const USERNAME = "cursophp7hcode@gmail.com";
+	const PASSWORD = "<?password?>";
+	const NAME_FROM = "Hcode Store";
 
 	private $mail;
 

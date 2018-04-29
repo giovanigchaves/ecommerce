@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="dataSourceStorageLocal">
-    <data-source name="db_ecommerce@localhost" uuid="3245b00c-c006-4473-bfdf-438ac2f3cd3f">
+    <data-source name="db_ecommerce@localhost" uuid="4570d153-8894-49ef-86fe-dc028d0e66c8">
       <database-info product="MySQL" version="5.5.5-10.1.16-MariaDB" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.46 ( Revision: 9cc87a48e75c2d2e87c1a293b2862ce651cb256e )">
         <extra-name-characters>#@</extra-name-characters>
         <identifier-quote-string>`</identifier-quote-string>
@@ -10,6 +10,8 @@
       <secret-storage>master_key</secret-storage>
       <user-name>root</user-name>
       <introspection-schemas>*:db_ecommerce</introspection-schemas>
+      <resolve-scope>db_ecommerce:</resolve-scope>
+      <unqualified-resolve-schemas>db_ecommerce:</unqualified-resolve-schemas>
     </data-source>
   </component>
 </project>

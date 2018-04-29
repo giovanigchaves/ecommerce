@@ -19,15 +19,15 @@
   	<div class="col-md-12">
   		<div class="box box-success">
         <div class="box-header with-border">
-          <h3 class="box-title">Nova Categoria</h3>
+          <h3 class="box-title">Novo Categoria</h3>
         </div>
         <!-- /.box-header -->
         <!-- form start -->
         <form role="form" action="/admin/categories/create" method="post">
           <div class="box-body">
             <div class="form-group">
-              <label for="descategory">Categoria</label>
-              <input type="text" class="form-control" id="descategory" name="descategory" placeholder="Digite a Categoria">
+              <label for="descategory">Nome da categoria</label>
+              <input type="text" class="form-control" id="descategory" name="descategory" placeholder="Digite o nome da categoria">
             </div>
           </div>
           <!-- /.box-body -->
