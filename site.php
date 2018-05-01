@@ -18,7 +18,7 @@ $app->get('/', function() {
 
 $app->get("/categories/:idcategory", function($idcategory){
 
-	$page = (isset($_GET['page'])) ? (int)$_GET['page'] : 8;
+	$page = (isset($_GET['page'])) ? (int)$_GET['page'] : 1;
 
 	$category = new Category();
 
@@ -41,6 +41,21 @@ $app->get("/categories/:idcategory", function($idcategory){
 		'category'=>$category->getValues(),
 		'products'=>$pagination["data"],
 		'pages'=>$pages
+	]);
+
+});
+
+$app->get("/products/:desurl", function($desurl){
+
+	$product = new Product();
+
+	$product->getFromURL($desurl);
+
+	$page = new Page();
+
+	$page->setTpl("product-detail", [
+		'product'=>$product->getValues(),
+		'categories'=>$product->getCategories()
 	]);
 
 });
