@@ -3,27 +3,21 @@
   <component name="ChangeListManager">
     <list default="true" id="5a343e2a-b69e-4906-bb1f-473ac80c12c7" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-categories.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin-categories.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/site/img/products/10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/res/site/img/products/10.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/site/img/products/11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/res/site/img/products/11.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/site/img/products/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/site/img/products/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/res/site/img/products/6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/site/img/products/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/site/img/products/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/site/img/products/6.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/res/site/img/products/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/res/site/img/products/7.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/site/img/products/8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/res/site/img/products/8.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/site/img/products/9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/res/site/img/products/9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/site/img/products/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/site/img/products/9.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/site.php" beforeDir="false" afterPath="$PROJECT_DIR$/site.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/hcodebr/php-classes/src/DB/Sql.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/hcodebr/php-classes/src/DB/Sql.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vendor/hcodebr/php-classes/src/Model/Category.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/hcodebr/php-classes/src/Model/Category.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/hcodebr/php-classes/src/Model/Product.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/hcodebr/php-classes/src/Model/Product.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views-cache/categories.b18aae8b7bfe6bd31c1fe7cf29d9e8b3.rtpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/views-cache/categories.b18aae8b7bfe6bd31c1fe7cf29d9e8b3.rtpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views-cache/categories-products.c31da12818ebecc2d25929cffbe01e2e.rtpl.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/views-cache/categories.c31da12818ebecc2d25929cffbe01e2e.rtpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/views-cache/categories.c31da12818ebecc2d25929cffbe01e2e.rtpl.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views-cache/category.c5b813be90a10a19f97859c318d75589.rtpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/views-cache/category.c5b813be90a10a19f97859c318d75589.rtpl.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views-cache/category.eee081e367a51fa4dc8b018f24306629.rtpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/views-cache/category.eee081e367a51fa4dc8b018f24306629.rtpl.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views-cache/index.eee081e367a51fa4dc8b018f24306629.rtpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/views-cache/index.eee081e367a51fa4dc8b018f24306629.rtpl.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views-cache/products-create.c31da12818ebecc2d25929cffbe01e2e.rtpl.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/views/admin/categories.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/admin/categories.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views/category.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/category.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -62,35 +56,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Sql.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vendor/hcodebr/php-classes/src/DB/Sql.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="53" column="56" selection-start-line="53" selection-start-column="56" selection-end-line="53" selection-end-column="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="admin-categories.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/admin-categories.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="127" column="67" selection-start-line="127" selection-start-column="67" selection-end-line="127" selection-end-column="67" />
-              <folding>
-                <element signature="e#8#29#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Category.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Category.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/vendor/hcodebr/php-classes/src/Model/Category.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="102" column="18" selection-start-line="102" selection-start-column="18" selection-end-line="102" selection-end-column="18" />
-              <folding>
-                <element signature="e#32#50#0#PHP" expanded="true" />
-              </folding>
+            <state relative-caret-position="18">
+              <caret line="111" column="64" selection-start-line="111" selection-start-column="64" selection-end-line="111" selection-end-column="64" />
             </state>
           </provider>
         </entry>
@@ -115,9 +85,9 @@
         <option value="$PROJECT_DIR$/views/index.html" />
         <option value="$PROJECT_DIR$/vendor/hcodebr/php-classes/src/Model/Product.php" />
         <option value="$PROJECT_DIR$/views/categories-menu.html" />
-        <option value="$PROJECT_DIR$/vendor/hcodebr/php-classes/src/DB/Sql.php" />
-        <option value="$PROJECT_DIR$/functions.php" />
         <option value="$PROJECT_DIR$/views/admin/categories.html" />
+        <option value="$PROJECT_DIR$/functions.php" />
+        <option value="$PROJECT_DIR$/vendor/hcodebr/php-classes/src/DB/Sql.php" />
         <option value="$PROJECT_DIR$/vendor/hcodebr/php-classes/src/Model/Category.php" />
       </list>
     </option>
@@ -156,7 +126,7 @@
       <path value="$PROJECT_DIR$/vendor/composer" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1616" />
@@ -212,27 +182,12 @@
               <item name="hcodebr" type="462c0819:PsiDirectoryNode" />
               <item name="php-classes" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="DB" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ecomerce" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ecomerce" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="hcodebr" type="462c0819:PsiDirectoryNode" />
-              <item name="php-classes" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Model" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ecomerce" type="b2602c69:ProjectViewProjectNode" />
               <item name="ecomerce" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ecomerce" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ecomerce" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="admin" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -370,15 +325,16 @@
       <workItem from="1525039096359" duration="301000" />
       <workItem from="1525039427011" duration="166000" />
       <workItem from="1525039848189" duration="283000" />
-      <workItem from="1525040476344" duration="17947000" />
+      <workItem from="1525040476344" duration="20018000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32019000" />
+    <option name="totallyTimeSpent" value="34090000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="886" extended-state="0" />
+    <frame x="-8" y="-8" width="1616" height="886" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Key Promoter X" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49227798" weight="0.32770744" />
@@ -388,7 +344,7 @@
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49061662" weight="0.32911393" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.497426" weight="0.32689655" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16902314" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16902314" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" weight="0.3348329" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -692,27 +648,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/site.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-          <folding>
-            <element signature="e#8#24#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/hcodebr/php-classes/src/Model/Product.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="303">
           <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -723,10 +662,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/admin-categories.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <folding>
+            <element signature="e#8#29#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="4" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/hcodebr/php-classes/src/DB/Sql.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="53" column="56" selection-start-line="53" selection-start-column="56" selection-end-line="53" selection-end-column="56" />
+        <state relative-caret-position="191">
+          <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -734,29 +697,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="30" column="40" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
-          <folding>
-            <element signature="n#style#0;n#th#0;n#tr#0;n#thead#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vendor/hcodebr/php-classes/src/Model/Category.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="102" column="18" selection-start-line="102" selection-start-column="18" selection-end-line="102" selection-end-column="18" />
-          <folding>
-            <element signature="e#32#50#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin-categories.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="127" column="67" selection-start-line="127" selection-start-column="67" selection-end-line="127" selection-end-column="67" />
-          <folding>
-            <element signature="e#8#29#0#PHP" expanded="true" />
-          </folding>
+        <state relative-caret-position="18">
+          <caret line="111" column="64" selection-start-line="111" selection-start-column="64" selection-end-line="111" selection-end-column="64" />
         </state>
       </provider>
     </entry>

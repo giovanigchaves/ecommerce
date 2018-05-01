@@ -28,7 +28,7 @@
                   <tr>
                     <th style="width: 10px">#</th>
                     <th>Nome da Categoria</th>
-                    <th style="width: 220px">&nbsp;</th>
+                    <th style="width: 240px">&nbsp;</th>
                   </tr>
                 </thead>
                 <tbody>
