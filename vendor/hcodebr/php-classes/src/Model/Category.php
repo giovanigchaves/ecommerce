@@ -42,6 +42,9 @@ class Category extends Model {
 			':idcategory'=>$idcategory
 		]);
 
+//		var_dump($results);
+//		exit;
+
 		$this->setData($results[0]);
 
 	}
