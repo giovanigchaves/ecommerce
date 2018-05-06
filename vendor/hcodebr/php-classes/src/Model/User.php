@@ -25,22 +25,19 @@ class User extends Model
 
         return $user;
 
-
     }
 
     public static function checkLogin($inadmin = true)
     {
 
         if (
-
             !isset($_SESSION[User::SESSION])
             ||
             !$_SESSION[User::SESSION]
             ||
             !(int)$_SESSION[User::SESSION]["iduser"] > 0
-
         ) {
-            // Nao esta logado
+            //Não está logado
             return false;
 
         } else {
@@ -49,7 +46,7 @@ class User extends Model
 
                 return true;
 
-            } elseif ($inadmin === false) {
+            } else if ($inadmin === false) {
 
                 return true;
 
@@ -59,15 +56,13 @@ class User extends Model
 
             }
 
-
         }
-
 
     }
 
-
     public static function login($login, $password)
     {
+
 
         $sql = new Sql();
 
@@ -75,11 +70,13 @@ class User extends Model
             ":LOGIN" => $login
         ));
 
+
         if (count($results) === 0) {
             throw new \Exception("Usuário inexistente ou senha inválida.");
         }
 
         $data = $results[0];
+
 
         if (password_verify($password, $data["despassword"]) === true) {
 
@@ -91,6 +88,7 @@ class User extends Model
 
             return $user;
 
+
         } else {
             throw new \Exception("Usuário inexistente ou senha inválida.");
         }
@@ -100,7 +98,8 @@ class User extends Model
     public static function verifyLogin($inadmin = true)
     {
 
-        if (User::checkLogin($inadmin)) {
+        if (!User::checkLogin($inadmin)) {
+
 
             header("Location: /admin/login");
             exit;
